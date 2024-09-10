@@ -5,15 +5,15 @@
 **Instructions:** Evaluate the following expressions.  You can answer either in this README file, in your own notebook, or on a separate piece of paper.
 ### Part 1
 a. 3 * (7 - 4) + 6 / 2
-
+12
 b. ((12 / 3) * (7 - 5) + 4) / 2
-
+12
 c. (5 + 2) * (8 - 3) % 2
-
+1
 d. (15 % 4) + (5 / 2) - (3 * 2)
-
+-1
 e. 5 * 2 + 4 / 2 % 3
-
+4
 f. (18 - 12) % 3 * (5 - 3 + 2)
 
 g. 6 % (8 - 6 + 2) - (3 * 3) / 3
