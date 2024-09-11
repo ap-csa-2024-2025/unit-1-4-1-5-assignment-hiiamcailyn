@@ -1,6 +1,6 @@
 public class Problem1
 {
-    public static void main(String[] args );
+    public static void main (String[] args)
     {
         int x = 24;
         x++; //25
@@ -11,6 +11,8 @@ public class Problem1
         x--; //26
         x--;//25
         x--; //24
+
+        System.out.print(x);
         }
  }
 
