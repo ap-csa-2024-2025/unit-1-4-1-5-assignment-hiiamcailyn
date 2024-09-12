@@ -2,7 +2,7 @@ public class Problem3
 {
     public static void main (String[] args)
     {
-        int number 5678;
+        int number = 5678;
         int digit1 = (number % 10);
         number /=10;
         int digit2 = (number % 10);
